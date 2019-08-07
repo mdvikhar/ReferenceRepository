@@ -13,6 +13,7 @@ namespace ClassLibrary
             Console.WriteLine(message);
             Console.WriteLine(message);
             Console.WriteLine(message);
+            Console.WriteLine(message);
         }   
     }
 }
