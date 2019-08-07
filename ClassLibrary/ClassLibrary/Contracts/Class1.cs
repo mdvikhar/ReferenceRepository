@@ -11,6 +11,8 @@ namespace ClassLibrary
         public void Display(string message)
         {
             Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
         }   
     }
 }
